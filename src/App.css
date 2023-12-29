@@ -17,9 +17,11 @@
 }
 .category {
   padding: 10px;
-  text-decoration: underline;
   font-weight: bold;
   color: rgb(9, 129, 169);
+}
+#categoryList > .on_select {
+  text-decoration: underline;
 }
 .table-wrapper {
   width: 70%;
@@ -44,8 +46,15 @@
 .productTable th:nth-child(7) {
   width: 90px;
 }
+
+.productTable th:nth-child(4),
+.productTable th:nth-child(5) {
+  width: 35px;
+}
+
 .productTable input {
-  width: 50px;
+  width: 40px;
+  margin-left: 10px;
   text-align: center;
 }
 .productTable tr:nth-child(odd) {
@@ -59,13 +68,17 @@
 
 #orderList {
   border-radius: 10px;
-  width: 20%;
+  width: 30%;
   padding: 10px;
   margin: 0 1rem;
-  background-color: rgb(202, 219, 231);
+  background-color: rgb(243, 243, 243);
 }
 
 .orders {
   padding-top: 1rem;
   padding-left: 10px;
+}
+
+.itemInCart {
+  font-size: 0.5rem;
 }

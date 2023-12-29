@@ -1,8 +1,36 @@
-function ProductTable({ jsonData, handleChange }: any) {
+import { useState } from "react";
+
+function ProductTable({
+  jsonData,
+  handleChange,
+  curOrderList,
+  productCategory,
+}: any) {
+  //const [productCategory, setProductCategory] = useState("MVInk"); // Initial category state
+  console.log("product cat: " + productCategory);
+  const productsToRender = jsonData[productCategory];
+
+  function calculateRowTotal(product: any) {
+    // Find the corresponding item in the orderList
+
+    const orderItem = curOrderList.find(
+      (item: any) => item.itemNumber === product.itemNumber
+    );
+
+    if (orderItem) {
+      // Calculate total based on quantity and suggested price
+      const total = orderItem.itemQuantity * orderItem.exportPrice;
+      return total.toFixed(2); // Format the total as needed
+    }
+
+    return 0; // If not found in orderList, display 0
+  }
+
+  console.log(productsToRender);
+
   return (
     <div className="table-wrapper">
       <table className="productTable">
-        <caption>Conklin Inks</caption>
         <thead>
           <tr>
             <th>Item #</th>
@@ -15,7 +43,7 @@ function ProductTable({ jsonData, handleChange }: any) {
           </tr>
         </thead>
         <tbody>
-          {jsonData.conklinInk.map((product: any) => (
+          {productsToRender.map((product: any) => (
             <tr key={product.itemNumber}>
               <td>{product.itemNumber}</td>
               <td>{product.upc}</td>
@@ -30,7 +58,7 @@ function ProductTable({ jsonData, handleChange }: any) {
                   onChange={(event) => handleChange(product, event)}
                 />
               </td>
-              <td>0</td>
+              <td className="productTotal">{calculateRowTotal(product)}</td>
             </tr>
           ))}
         </tbody>
