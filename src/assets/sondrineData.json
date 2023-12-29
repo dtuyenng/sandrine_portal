@@ -1,144 +1,144 @@
 {
-  "Conklin Ink": [
+  "conklinInk": [
     {
-      "Item Number": "CK70060",
-      "UPC": "080333700600",
-      "Desc": "Conklin Bottle Ink 60 ml; Antique Turquoise",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70060",
+      "upc": "080333700600",
+      "desc": "Conklin Bottle Ink 60 ml; Antique Turquoise",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70061",
-      "UPC": "080333700617",
-      "Desc": "Conklin Bottle Ink 60 ml; Bright Red",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70061",
+      "upc": "080333700617",
+      "desc": "Conklin Bottle Ink 60 ml; Bright Red",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70063",
-      "UPC": "080333700631",
-      "Desc": "Conklin Bottle Ink 60 ml; Dark Rust",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70063",
+      "upc": "080333700631",
+      "desc": "Conklin Bottle Ink 60 ml; Dark Rust",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70064",
-      "UPC": "080333700648",
-      "Desc": "Conklin Bottle Ink 60 ml; Deep Blue",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70064",
+      "upc": "080333700648",
+      "desc": "Conklin Bottle Ink 60 ml; Deep Blue",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70065",
-      "UPC": "080333700655",
-      "Desc": "Conklin Bottle Ink 60 ml; Denim Blue",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70065",
+      "upc": "080333700655",
+      "desc": "Conklin Bottle Ink 60 ml; Denim Blue",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70066",
-      "UPC": "080333700662",
-      "Desc": "Conklin Bottle Ink 60 ml; Dusty Rose",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70066",
+      "upc": "080333700662",
+      "desc": "Conklin Bottle Ink 60 ml; Dusty Rose",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70067",
-      "UPC": "080333700679",
-      "Desc": "Conklin Bottle Ink 60 ml; Kelly Green",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70067",
+      "upc": "080333700679",
+      "desc": "Conklin Bottle Ink 60 ml; Kelly Green",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70068",
-      "UPC": "080333700686",
-      "Desc": "Conklin Bottle Ink 60 ml; Rich Mahogany",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70068",
+      "upc": "080333700686",
+      "desc": "Conklin Bottle Ink 60 ml; Rich Mahogany",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70069",
-      "UPC": "080333700693",
-      "Desc": "Conklin Bottle Ink 60 ml; Vintage Purple",
-      "Suggested Price": "$18.00",
-      "Export Price": "$4.50"
+      "itemNumber": "CK70069",
+      "upc": "080333700693",
+      "desc": "Conklin Bottle Ink 60 ml; Vintage Purple",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
     },
     {
-      "Item Number": "CK70070",
-      "UPC": "080333700709",
-      "Desc": "Conklin Ink Cartridges Black; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70070",
+      "upc": "080333700709",
+      "desc": "Conklin Ink Cartridges Black; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70071",
-      "UPC": "080333700716",
-      "Desc": "Conklin Ink Cartridges Blue; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70071",
+      "upc": "080333700716",
+      "desc": "Conklin Ink Cartridges Blue; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70072",
-      "UPC": "080333700723",
-      "Desc": "Conklin Ink Cartridges Blue/Black; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70072",
+      "upc": "080333700723",
+      "desc": "Conklin Ink Cartridges Blue/Black; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70073",
-      "UPC": "080333700730",
-      "Desc": "Conklin Ink Cartridges Brown; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70073",
+      "upc": "080333700730",
+      "desc": "Conklin Ink Cartridges Brown; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70074",
-      "UPC": "080333700747",
-      "Desc": "Conklin Ink Cartridges Pink; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70074",
+      "upc": "080333700747",
+      "desc": "Conklin Ink Cartridges Pink; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70075",
-      "UPC": "080333700754",
-      "Desc": "Conklin Ink Cartridges Purple; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70075",
+      "upc": "080333700754",
+      "desc": "Conklin Ink Cartridges Purple; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70076",
-      "UPC": "080333700761",
-      "Desc": "Conklin Ink Cartridges Turquoise; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70076",
+      "upc": "080333700761",
+      "desc": "Conklin Ink Cartridges Turquoise; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70077",
-      "UPC": "080333700778",
-      "Desc": "Conklin Ink Cartridges Red; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70077",
+      "upc": "080333700778",
+      "desc": "Conklin Ink Cartridges Red; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70078",
-      "UPC": "0803337007785",
-      "Desc": "Conklin Ink Cartridges Green; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70078",
+      "upc": "0803337007785",
+      "desc": "Conklin Ink Cartridges Green; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "CK70079",
-      "UPC": "080333700792",
-      "Desc": "Conklin Ink Cartridges Burgundy; 12 pc Box",
-      "Suggested Price": "$7.00",
-      "Export Price": "$1.75"
+      "itemNumber": "CK70079",
+      "upc": "080333700792",
+      "desc": "Conklin Ink Cartridges Burgundy; 12 pc Box",
+      "suggestedPrice": "7.00",
+      "exportPrice": "1.75"
     },
     {
-      "Item Number": "",
-      "UPC": "",
-      "Desc": "",
-      "Suggested Price": "",
-      "Export Price": ""
+      "itemNumber": "",
+      "upc": "",
+      "desc": "",
+      "suggestedPrice": "",
+      "exportPrice": ""
     }
   ]
 }
