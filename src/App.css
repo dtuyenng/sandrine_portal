@@ -26,11 +26,14 @@
   display: flex;
 }
 .sub-menubar {
+  position: absolute;
   visibility: hidden;
   opacity: 0;
   transition: visibility 0s, opacity 0.3s ease-in-out; /* Transition for visibility and opacity */
 }
-
+.hidden {
+  opacity: 0;
+}
 .visible {
   visibility: visible !important;
   opacity: 1 !important; /* Make the submenu fully visible */

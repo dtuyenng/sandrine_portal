@@ -25,12 +25,16 @@ function Menu() {
       </ul>
 
       <div className="submenu">
-        <ul className={`sub-menubar ${selectedItem === 1 ? "visible" : ""}`}>
+        <ul
+          className={`sub-menubar ${selectedItem === 1 ? "visible" : "hidden"}`}
+        >
           <li className="menu-item">Section 1.1</li>
           <li className="menu-item">Section 1.2</li>
         </ul>
 
-        <ul className={`sub-menubar ${selectedItem === 2 ? "visible" : ""}`}>
+        <ul
+          className={`sub-menubar ${selectedItem === 2 ? "visible" : "hidden"}`}
+        >
           <li className="menu-item">Section 2.1</li>
           <li className="menu-item">Section 2.2</li>
         </ul>
