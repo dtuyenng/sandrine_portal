@@ -5,6 +5,41 @@
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(61, 61, 61);
 }
+/* Menu and submenu styles */
+.menubar,
+.sub-menubar {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-item {
+  list-style: none;
+  margin-left: 1rem;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+}
+
+.submenu {
+  display: flex;
+}
+.sub-menubar {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.3s ease-in-out; /* Transition for visibility and opacity */
+}
+
+.visible {
+  visibility: visible !important;
+  opacity: 1 !important; /* Make the submenu fully visible */
+}
+
+/* Styling for the selected menu item */
+.menu-item.selected {
+  text-decoration: underline;
+}
 
 #mainWrapper {
   width: 100%;

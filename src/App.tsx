@@ -1,6 +1,7 @@
 import "./App.css";
 import { useState } from "react";
 import ProductTable from "./components/ProductTable";
+import Menu from "./Menu";
 import OrderList from "./OrderList";
 import jsonData from "./assets/sondrineData.json";
 
@@ -59,7 +60,8 @@ function App() {
 
   return (
     <div>
-      <ul id="categoryList">
+      <Menu></Menu>
+      {/* <ul id="categoryList">
         {categories.map((category) => (
           <li
             key={category.id}
@@ -82,7 +84,7 @@ function App() {
           productCategory={selectedCategory}
         ></ProductTable>
         <OrderList orderList={curOrderList}></OrderList>
-      </div>
+      </div> */}
     </div>
   );
 }

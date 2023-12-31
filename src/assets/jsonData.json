@@ -1,0 +1,71 @@
+{
+  "Monteverde Pens": [
+    {
+      "itemNumber": "MV59615",
+      "upc": "80333596159",
+      "desc": "Aldo Domani Ballpoint Black",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    },
+    {
+      "itemNumber": "MV59711",
+      "upc": "080333597118",
+      "desc": "Aldo Domani Italia Fountain Pen Matte Black -EF",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    },
+    {
+      "itemNumber": "MV35357",
+      "upc": "MV35357",
+      "desc": "Engage One-Touch Inkball Anodized Electric Purple, fine point",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    }
+  ],
+  "Conklin Inks": [
+    {
+      "itemNumber": "CK70060",
+      "upc": "080333700600",
+      "desc": "Conklin Bottle Ink 60 ml; Antique Turquoise",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    },
+    {
+      "itemNumber": "CK70061",
+      "upc": "080333700617",
+      "desc": "Conklin Bottle Ink 60 ml; Bright Red",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    },
+    {
+      "itemNumber": "CK70063",
+      "upc": "080333700631",
+      "desc": "Conklin Bottle Ink 60 ml; Dark Rust",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    }
+  ],
+  "Monteverde Inks": [
+    {
+      "itemNumber": "G308BK",
+      "upc": "080333904305",
+      "desc": "Monteverde Bottle Ink 90 ml Black Ash",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    },
+    {
+      "itemNumber": "G308BB",
+      "upc": "080333700617",
+      "desc": "Monteverde Bottle Ink 90 ml Blue/Black",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    },
+    {
+      "itemNumber": "G308BG",
+      "upc": "080333904336",
+      "desc": "Monteverde Bottle Ink 90 ml Napa Burgundy",
+      "suggestedPrice": "18.00",
+      "exportPrice": "4.50"
+    }
+  ]
+}
